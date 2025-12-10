@@ -1,1 +1,3 @@
 # project
+
+pip install pygame
